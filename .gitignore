@@ -1,0 +1,12 @@
+.idea/
+JobsApi/node_modules/
+JWT-Basics/node_modules/
+storeApi/node_modules/
+taskApi/node_modules/
+JobsApi/.env
+JWT-Basics/.env
+storeApi/.env
+taskApi/.env
+
+*.bak
+*.log

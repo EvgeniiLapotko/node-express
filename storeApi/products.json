@@ -1,0 +1,11 @@
+[
+  {
+    "name": "bed",
+    "company": "ikea",
+    "price" : 45
+  },{
+    "name": "sofa",
+    "company": "ikea",
+    "price" : 60
+  }
+]
